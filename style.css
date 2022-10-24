@@ -48,7 +48,7 @@ main {
 .cards {
 	margin: 40px 0;
 	display: grid;
-	grid-template-columns: repeat(3, minmax(100px, 320px));
+	grid-template-columns: repeat(3, minmax(100px, 361px));
     gap: 2em;
     align-items: center;
 }
